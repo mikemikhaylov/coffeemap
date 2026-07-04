@@ -83,16 +83,33 @@ export function App() {
   }, [])
 
   function goToMyLocation() {
-    if (!map || !('geolocation' in navigator)) return
+    if (!map) return
+    if (!('geolocation' in navigator)) {
+      alert('This browser does not support location.')
+      return
+    }
+    // Geolocation only works in a secure context (HTTPS or localhost).
+    if (!window.isSecureContext) {
+      alert('Location needs a secure connection — open this site over HTTPS (https://coffeemap.uk).')
+      return
+    }
     setLocating(true)
     navigator.geolocation.getCurrentPosition(
       (pos) => {
         map.flyTo([pos.coords.latitude, pos.coords.longitude], 14)
         setLocating(false)
       },
-      () => {
+      (err) => {
         setLocating(false)
-        alert('Could not get your location.')
+        const reason =
+          err.code === err.PERMISSION_DENIED
+            ? 'location permission was denied (check your browser settings)'
+            : err.code === err.POSITION_UNAVAILABLE
+              ? 'your position is unavailable'
+              : err.code === err.TIMEOUT
+                ? 'the request timed out'
+                : err.message
+        alert(`Could not get your location — ${reason}.`)
       },
       { enableHighAccuracy: true, timeout: 10000 },
     )
