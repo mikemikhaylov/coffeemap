@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sample-1",
+    "name": "Example Roasters",
+    "city": "Lisbon",
+    "lat": 38.7169,
+    "lng": -9.1399,
+    "visited": "2026-01-15",
+    "rating": 5,
+    "notes": "Sample entry — replace with a real visit."
+  }
+]
