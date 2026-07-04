@@ -37,16 +37,18 @@ Top-level JSON **array**, one element per shop (deduped across visits; sorted by
 
 | field    | type   | notes                                                        |
 | -------- | ------ | ------------------------------------------------------------ |
-| `url`    | string | identity + "open in Google Maps"; unique per shop; array sorted by it |
-| `name`   | string | shop name (from Notion)                                      |
-| `lat`    | number | latitude (always present)                                    |
-| `lng`    | number | longitude (always present)                                   |
-| `visits` | array  | one per visit, **oldest first**, no timestamps               |
+| `url`    | string   | identity + "open in Google Maps"; unique per shop; array sorted by it |
+| `name`   | string   | shop name (from Notion)                                    |
+| `lat`    | number   | latitude (always present)                                  |
+| `lng`    | number   | longitude (always present)                                 |
+| `tags`   | string[] | shop-level: deduped union of all visits' tags, sorted      |
+| `visits` | array    | one per visit, **oldest first**, no timestamps             |
 
 Each `visits[]` element: `coffee`, `service`, `atmosphere` (`number | null` —
-`null` = not rated, `0` = the `0️⃣` option, `1..3` = stars) and `tags` (string
-array). `lat`/`lng` are always present — the sync **fails** rather than emit a
-shop without coordinates, so the map can trust every pin.
+`null` = not rated, `0` = the `0️⃣` option, `1..3` = stars). `tags` are at the
+shop level (deduped + sorted), not per-visit. `lat`/`lng` are always present —
+the sync **fails** rather than emit a shop without coordinates, so the map can
+trust every pin.
 
 The Actions workflow rebuilds and redeploys on push to `main`.
 

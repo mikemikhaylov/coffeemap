@@ -4,12 +4,12 @@
     "name": "St Clair Cafe",
     "lat": 51.5101757,
     "lng": -0.2102784,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -18,12 +18,12 @@
     "name": "Blank Street Coffee",
     "lat": 51.5056652,
     "lng": -0.016511,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -32,12 +32,12 @@
     "name": "Old Spike Cabot Square",
     "lat": 51.5051042,
     "lng": -0.0237364,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -46,12 +46,12 @@
     "name": "Urban Baristas",
     "lat": 51.4989372,
     "lng": -0.1322367,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -60,12 +60,12 @@
     "name": "Carhartt Coffee",
     "lat": 51.5337104,
     "lng": -0.1248471,
+    "tags": [],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -74,12 +74,12 @@
     "name": "Special Guests Coffee",
     "lat": 51.5191276,
     "lng": -0.1528896,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -88,12 +88,12 @@
     "name": "15grams Coffee House",
     "lat": 51.4812633,
     "lng": -0.0097622,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -102,12 +102,12 @@
     "name": "Church Farm Cafe",
     "lat": 51.8021636,
     "lng": -0.6059285,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -116,12 +116,12 @@
     "name": "LIFT COFFEE",
     "lat": 51.5074745,
     "lng": -0.1949041,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -130,12 +130,12 @@
     "name": "Coffee Barker",
     "lat": 51.480479,
     "lng": -3.1806282,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -144,12 +144,12 @@
     "name": "Coffee Tepuy | Cafe | Specialty Colombian Coffee shop in Edinburgh UK",
     "lat": 55.9626745,
     "lng": -3.1783745,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -158,14 +158,14 @@
     "name": "The Eleventh Hour",
     "lat": 51.5013076,
     "lng": -0.0228868,
+    "tags": [
+      "☕ Specialty vibe"
+    ],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 2,
-        "tags": [
-          "☕ Specialty vibe"
-        ]
+        "atmosphere": 2
       }
     ]
   },
@@ -174,12 +174,12 @@
     "name": "Nostos Coffee",
     "lat": 51.4770413,
     "lng": -0.146927,
+    "tags": [],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -188,12 +188,12 @@
     "name": "The Coffee Studio - Greenwich",
     "lat": 51.4812466,
     "lng": -0.0168558,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -202,12 +202,12 @@
     "name": "Blueprint Coffee & Books",
     "lat": 51.3570388,
     "lng": 1.0245289,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -216,12 +216,12 @@
     "name": "Yummzy",
     "lat": 51.5047886,
     "lng": -0.02234,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 3,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -230,12 +230,12 @@
     "name": "Coffee Island",
     "lat": 51.4826522,
     "lng": -0.0189019,
+    "tags": [],
     "visits": [
       {
         "coffee": 0,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -244,12 +244,12 @@
     "name": "Cafe Seek",
     "lat": 51.5021582,
     "lng": -0.010702,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -258,18 +258,17 @@
     "name": "WatchHouse",
     "lat": 51.5052594,
     "lng": -0.0202939,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       },
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -278,12 +277,12 @@
     "name": "SOPHiE",
     "lat": 53.9601559,
     "lng": -1.0868409,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -292,12 +291,12 @@
     "name": "Signorelli bakery - Wood Wharf",
     "lat": 51.5028657,
     "lng": -0.0112228,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -306,12 +305,12 @@
     "name": "The Paper Boat Cafe",
     "lat": 51.7466573,
     "lng": -1.2564711,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -320,12 +319,12 @@
     "name": "The Fincan",
     "lat": 51.4987707,
     "lng": -0.0446726,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -334,12 +333,12 @@
     "name": "GIANT COFFEE",
     "lat": 51.3892486,
     "lng": 1.3811452,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -348,12 +347,12 @@
     "name": "Knoops",
     "lat": 55.9486321,
     "lng": -3.1933861,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -362,12 +361,12 @@
     "name": "Bellucci Cafe",
     "lat": 51.4977301,
     "lng": -0.0474559,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 1,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -376,14 +375,14 @@
     "name": "Formative Coffee",
     "lat": 51.4979102,
     "lng": -0.1354426,
+    "tags": [
+      "☕ Specialty vibe"
+    ],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 2,
-        "tags": [
-          "☕ Specialty vibe"
-        ]
+        "atmosphere": 2
       }
     ]
   },
@@ -392,18 +391,17 @@
     "name": "Fika Xchange",
     "lat": 51.4988255,
     "lng": -0.0144808,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 3,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       },
       {
         "coffee": 2,
         "service": 3,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -412,12 +410,12 @@
     "name": "60 Degrees Speciality Coffee",
     "lat": 51.4964506,
     "lng": -0.1347027,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -426,12 +424,12 @@
     "name": "Grind",
     "lat": 51.5050592,
     "lng": -0.0205314,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -440,12 +438,12 @@
     "name": "Ovis Coffees",
     "lat": 51.5157095,
     "lng": -0.1287878,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -454,12 +452,12 @@
     "name": "KUL COFFEE",
     "lat": 55.9587332,
     "lng": -3.1833763,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -468,14 +466,14 @@
     "name": "Aether Coffee Lab",
     "lat": 51.5026648,
     "lng": -0.0135623,
+    "tags": [
+      "☕ Specialty vibe"
+    ],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 2,
-        "tags": [
-          "☕ Specialty vibe"
-        ]
+        "atmosphere": 2
       }
     ]
   },
@@ -484,12 +482,12 @@
     "name": "Forever Coffee York",
     "lat": 53.9570837,
     "lng": -1.0816417,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -498,14 +496,14 @@
     "name": "Onion Garden",
     "lat": 51.4979881,
     "lng": -0.1370151,
+    "tags": [
+      "💎 Hidden Gem"
+    ],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 3,
-        "tags": [
-          "💎 Hidden Gem"
-        ]
+        "atmosphere": 3
       }
     ]
   },
@@ -514,12 +512,12 @@
     "name": "Manoppello Coffee House",
     "lat": 51.5155773,
     "lng": -0.1309709,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -528,12 +526,12 @@
     "name": "Jungle Roast - COFFEE, JUICE & MATCHA BAR",
     "lat": 51.4956335,
     "lng": -0.1306771,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 1,
-        "tags": []
+        "atmosphere": 1
       }
     ]
   },
@@ -542,12 +540,12 @@
     "name": "Redemption Roasters | St Giles High street",
     "lat": 51.5157441,
     "lng": -0.1291537,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -556,14 +554,14 @@
     "name": "Kiosk Cafe",
     "lat": 53.9581921,
     "lng": -1.0785783,
+    "tags": [
+      "☕ Specialty vibe"
+    ],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 2,
-        "tags": [
-          "☕ Specialty vibe"
-        ]
+        "atmosphere": 2
       }
     ]
   },
@@ -572,12 +570,12 @@
     "name": "FAVE Mindful Coffee truck",
     "lat": 51.5057006,
     "lng": -0.0161083,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -586,12 +584,12 @@
     "name": "Kiss The Hippo Coffee Mayfair",
     "lat": 51.5119752,
     "lng": -0.1403446,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -600,12 +598,12 @@
     "name": "8 Harbord Square",
     "lat": 51.5024192,
     "lng": -0.0106547,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -614,12 +612,12 @@
     "name": "Another Brother Canary Wharf",
     "lat": 51.4976634,
     "lng": -0.0144922,
+    "tags": [],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -628,12 +626,12 @@
     "name": "SENZO",
     "lat": 51.5121641,
     "lng": -0.0761374,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 2,
-        "atmosphere": 2,
-        "tags": []
+        "atmosphere": 2
       }
     ]
   },
@@ -642,12 +640,12 @@
     "name": "Nina & Dean Coffee",
     "lat": 51.5007115,
     "lng": -0.0166709,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -656,12 +654,12 @@
     "name": "Hagen Espresso Bar (Hagen Jubilee Plaza)",
     "lat": 51.5040985,
     "lng": -0.0203262,
+    "tags": [],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   },
@@ -670,12 +668,12 @@
     "name": "Nostos Coffee",
     "lat": 51.4986733,
     "lng": -0.1333018,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -684,12 +682,12 @@
     "name": "Canary Garden Cafe",
     "lat": 51.5012552,
     "lng": -0.0165576,
+    "tags": [],
     "visits": [
       {
         "coffee": null,
         "service": null,
-        "atmosphere": null,
-        "tags": []
+        "atmosphere": null
       }
     ]
   },
@@ -698,14 +696,14 @@
     "name": "Nagare Coffee",
     "lat": 51.5189455,
     "lng": -0.0769362,
+    "tags": [
+      "☕ Specialty vibe"
+    ],
     "visits": [
       {
         "coffee": 3,
         "service": 2,
-        "atmosphere": 2,
-        "tags": [
-          "☕ Specialty vibe"
-        ]
+        "atmosphere": 2
       }
     ]
   },
@@ -714,14 +712,14 @@
     "name": "Steep Street Coffee House",
     "lat": 51.0803852,
     "lng": 1.1830384,
+    "tags": [
+      "💎 Hidden Gem"
+    ],
     "visits": [
       {
         "coffee": 2,
         "service": 2,
-        "atmosphere": 3,
-        "tags": [
-          "💎 Hidden Gem"
-        ]
+        "atmosphere": 3
       }
     ]
   },
@@ -730,12 +728,12 @@
     "name": "Obicà Mozzarella Bar",
     "lat": 51.5026382,
     "lng": -0.0202284,
+    "tags": [],
     "visits": [
       {
         "coffee": 1,
         "service": 2,
-        "atmosphere": 3,
-        "tags": []
+        "atmosphere": 3
       }
     ]
   }
