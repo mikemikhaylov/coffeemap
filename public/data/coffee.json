@@ -1,12 +1,742 @@
 [
   {
-    "id": "sample-1",
-    "name": "Example Roasters",
-    "city": "Lisbon",
-    "lat": 38.7169,
-    "lng": -9.1399,
-    "visited": "2026-01-15",
-    "rating": 5,
-    "notes": "Sample entry — replace with a real visit."
+    "url": "https://maps.app.goo.gl/1ZN3Tsna6geLDjm66?g_st=notion.id.NotionShareExtension",
+    "name": "St Clair Cafe",
+    "lat": 51.5101757,
+    "lng": -0.2102784,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/1xPA1APgUXNPy3c7A?g_st=notion.id.NotionShareExtension",
+    "name": "Blank Street Coffee",
+    "lat": 51.5056652,
+    "lng": -0.016511,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/6BACCv5uHknErSW37",
+    "name": "Old Spike Cabot Square",
+    "lat": 51.5051042,
+    "lng": -0.0237364,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/6Z7Zb8kaq5a8eNgt8?g_st=notion.id.NotionShareExtension",
+    "name": "Urban Baristas",
+    "lat": 51.4989372,
+    "lng": -0.1322367,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/8XimkujYy5Dqxd6M8",
+    "name": "Carhartt Coffee",
+    "lat": 51.5337104,
+    "lng": -0.1248471,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/AFBxkSvsuWCqYsi46?g_st=notion.id.NotionShareExtension",
+    "name": "Special Guests Coffee",
+    "lat": 51.5191276,
+    "lng": -0.1528896,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/Az9SXv4CbgGbMTJK9?g_st=notion.id.NotionShareExtension",
+    "name": "15grams Coffee House",
+    "lat": 51.4812633,
+    "lng": -0.0097622,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/Bma4bXizuH3beY1Q6",
+    "name": "Church Farm Cafe",
+    "lat": 51.8021636,
+    "lng": -0.6059285,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/BzcRHRD4DaahvVw76",
+    "name": "LIFT COFFEE",
+    "lat": 51.5074745,
+    "lng": -0.1949041,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/CyitWxRCg5t8Qh739",
+    "name": "Coffee Barker",
+    "lat": 51.480479,
+    "lng": -3.1806282,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/DKrzJVKLxeHMkeQaA",
+    "name": "Coffee Tepuy | Cafe | Specialty Colombian Coffee shop in Edinburgh UK",
+    "lat": 55.9626745,
+    "lng": -3.1783745,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/DxZU7ueSJDKBGTD39",
+    "name": "The Eleventh Hour",
+    "lat": 51.5013076,
+    "lng": -0.0228868,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": [
+          "☕ Specialty vibe"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/ECVKP1igJcFRjmqSA",
+    "name": "Nostos Coffee",
+    "lat": 51.4770413,
+    "lng": -0.146927,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/JX9YW81DL61vATw48?g_st=notion.id.NotionShareExtension",
+    "name": "The Coffee Studio - Greenwich",
+    "lat": 51.4812466,
+    "lng": -0.0168558,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/L76zh9YtHtx81piW8",
+    "name": "Blueprint Coffee & Books",
+    "lat": 51.3570388,
+    "lng": 1.0245289,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/N2x2hoEZfLnDSW4w5",
+    "name": "Yummzy",
+    "lat": 51.5047886,
+    "lng": -0.02234,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 3,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/NyoUrjL5Y97s1PoPA",
+    "name": "Coffee Island",
+    "lat": 51.4826522,
+    "lng": -0.0189019,
+    "visits": [
+      {
+        "coffee": 0,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/QAXQhkJQxbdRAQm96",
+    "name": "Cafe Seek",
+    "lat": 51.5021582,
+    "lng": -0.010702,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/VFNZkteydWE5MJq47?g_st=notion.id.NotionShareExtension",
+    "name": "WatchHouse",
+    "lat": 51.5052594,
+    "lng": -0.0202939,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      },
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/X2wGZevP1yTeCFCF7",
+    "name": "SOPHiE",
+    "lat": 53.9601559,
+    "lng": -1.0868409,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/XrAwvRFed2T4DisdA",
+    "name": "Signorelli bakery - Wood Wharf",
+    "lat": 51.5028657,
+    "lng": -0.0112228,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/ZJNZ8VQVfAF3bZj67?g_st=notion.id.NotionShareExtension",
+    "name": "The Paper Boat Cafe",
+    "lat": 51.7466573,
+    "lng": -1.2564711,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/bctaks6JYXGQMnes8",
+    "name": "The Fincan",
+    "lat": 51.4987707,
+    "lng": -0.0446726,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/bz1CakREupFtTCdn8",
+    "name": "GIANT COFFEE",
+    "lat": 51.3892486,
+    "lng": 1.3811452,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/cXVWtQju2LaEYQ3QA",
+    "name": "Knoops",
+    "lat": 55.9486321,
+    "lng": -3.1933861,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/djwUKe7sQYA8zbPr6",
+    "name": "Bellucci Cafe",
+    "lat": 51.4977301,
+    "lng": -0.0474559,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 1,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/fTdmjHXP4WX4BVzUA",
+    "name": "Formative Coffee",
+    "lat": 51.4979102,
+    "lng": -0.1354426,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": [
+          "☕ Specialty vibe"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/gUJvXhR49FCxsm466",
+    "name": "Fika Xchange",
+    "lat": 51.4988255,
+    "lng": -0.0144808,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 3,
+        "atmosphere": 2,
+        "tags": []
+      },
+      {
+        "coffee": 2,
+        "service": 3,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/gp53LQnQHL4hrheq5",
+    "name": "60 Degrees Speciality Coffee",
+    "lat": 51.4964506,
+    "lng": -0.1347027,
+    "visits": [
+      {
+        "coffee": null,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/gs5MUCDAnTBXw6JY6",
+    "name": "Grind",
+    "lat": 51.5050592,
+    "lng": -0.0205314,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/jLA3x4SbrSjAijwXA",
+    "name": "Ovis Coffees",
+    "lat": 51.5157095,
+    "lng": -0.1287878,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/jLxEKn1SGDBc4gZR9",
+    "name": "KUL COFFEE",
+    "lat": 55.9587332,
+    "lng": -3.1833763,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/jq5pH2AcbHy1Tpt26",
+    "name": "Aether Coffee Lab",
+    "lat": 51.5026648,
+    "lng": -0.0135623,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": [
+          "☕ Specialty vibe"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/k4UJny5JmHScL77M7",
+    "name": "Forever Coffee York",
+    "lat": 53.9570837,
+    "lng": -1.0816417,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/mvqDztiFqoXP1oCv8",
+    "name": "Onion Garden",
+    "lat": 51.4979881,
+    "lng": -0.1370151,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": [
+          "💎 Hidden Gem"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/nfgWfieVQYwEXcD77?g_st=notion.id.NotionShareExtension",
+    "name": "Manoppello Coffee House",
+    "lat": 51.5155773,
+    "lng": -0.1309709,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/oDV2s5PMazVGEyxK9",
+    "name": "Jungle Roast - COFFEE, JUICE & MATCHA BAR",
+    "lat": 51.4956335,
+    "lng": -0.1306771,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 1,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/p591FfB8muQkdsmf9",
+    "name": "Redemption Roasters | St Giles High street",
+    "lat": 51.5157441,
+    "lng": -0.1291537,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/pkFXENYaKc81AnpB6",
+    "name": "Kiosk Cafe",
+    "lat": 53.9581921,
+    "lng": -1.0785783,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": [
+          "☕ Specialty vibe"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/qLPMAqaQwviPtEzM7",
+    "name": "FAVE Mindful Coffee truck",
+    "lat": 51.5057006,
+    "lng": -0.0161083,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/qh8TM7dnHPekTdyG6",
+    "name": "Kiss The Hippo Coffee Mayfair",
+    "lat": 51.5119752,
+    "lng": -0.1403446,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/r9MDzSojacqCcSsC7",
+    "name": "8 Harbord Square",
+    "lat": 51.5024192,
+    "lng": -0.0106547,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/rhzCTbKcRapb23sq6",
+    "name": "Another Brother Canary Wharf",
+    "lat": 51.4976634,
+    "lng": -0.0144922,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/rxoJSicJrG4og8T89",
+    "name": "SENZO",
+    "lat": 51.5121641,
+    "lng": -0.0761374,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/s1euLEXqfRctzRTv6?g_st=notion.id.NotionShareExtension",
+    "name": "Nina & Dean Coffee",
+    "lat": 51.5007115,
+    "lng": -0.0166709,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/sDWQiV8swytP4xgH6?g_st=notion.id.NotionShareExtension",
+    "name": "Hagen Espresso Bar (Hagen Jubilee Plaza)",
+    "lat": 51.5040985,
+    "lng": -0.0203262,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/sHmcA4PVq3CgEhDd8?g_st=notion.id.NotionShareExtension",
+    "name": "Nostos Coffee",
+    "lat": 51.4986733,
+    "lng": -0.1333018,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/vEmYD7fSV1z8HyDP9",
+    "name": "Canary Garden Cafe",
+    "lat": 51.5012552,
+    "lng": -0.0165576,
+    "visits": [
+      {
+        "coffee": null,
+        "service": null,
+        "atmosphere": null,
+        "tags": []
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/viUF1jig6HdBXw7F6",
+    "name": "Nagare Coffee",
+    "lat": 51.5189455,
+    "lng": -0.0769362,
+    "visits": [
+      {
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2,
+        "tags": [
+          "☕ Specialty vibe"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/zQhryXpVkSnVTimc7",
+    "name": "Steep Street Coffee House",
+    "lat": 51.0803852,
+    "lng": 1.1830384,
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": [
+          "💎 Hidden Gem"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/zcqoV3ByGw5aJzAB6?g_st=notion.id.NotionShareExtension",
+    "name": "Obicà Mozzarella Bar",
+    "lat": 51.5026382,
+    "lng": -0.0202284,
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 3,
+        "tags": []
+      }
+    ]
   }
 ]

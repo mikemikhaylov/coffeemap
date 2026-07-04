@@ -24,21 +24,31 @@ Coffee shops live in `public/data/coffee.json` and are fetched at runtime from
 `/data/coffee.json`. Files in `public/` are copied verbatim into the build and
 served at the site root — that's why the data goes there rather than `src/`.
 
-Each entry (see the sample in that file):
+### `coffee.json` is generated — don't hand-edit
 
-| field     | type              | notes                              |
-| --------- | ----------------- | ---------------------------------- |
-| `id`      | string            | stable unique id                   |
-| `name`    | string            | shop name                          |
-| `city`    | string            | city / area                        |
-| `lat`     | number            | latitude                           |
-| `lng`     | number            | longitude                          |
-| `visited` | string (ISO date) | when we visited                    |
-| `rating`  | number (1–5)      | optional                           |
-| `notes`   | string            | optional free text                 |
+It is produced from a Notion "Coffee Shops" database by a script in the **tools**
+repo (`~/src/tools/src/coffeemap/sync.ts`, run via `npm run coffeemap` there).
+The source of truth is Notion; edits made directly here are overwritten on the
+next sync. To change data, edit Notion and re-run the sync, then commit the
+resulting diff (the sync writes the file but does **not** commit/push).
 
-Adding a coffee shop = append an object to `coffee.json` and push. No rebuild
-step by hand; the Actions workflow rebuilds and redeploys on push to `main`.
+Top-level JSON **array**, one element per shop (deduped across visits; sorted by
+`url`):
+
+| field    | type   | notes                                                        |
+| -------- | ------ | ------------------------------------------------------------ |
+| `url`    | string | identity + "open in Google Maps"; unique per shop; array sorted by it |
+| `name`   | string | shop name (from Notion)                                      |
+| `lat`    | number | latitude (always present)                                    |
+| `lng`    | number | longitude (always present)                                   |
+| `visits` | array  | one per visit, **oldest first**, no timestamps               |
+
+Each `visits[]` element: `coffee`, `service`, `atmosphere` (`number | null` —
+`null` = not rated, `0` = the `0️⃣` option, `1..3` = stars) and `tags` (string
+array). `lat`/`lng` are always present — the sync **fails** rather than emit a
+shop without coordinates, so the map can trust every pin.
+
+The Actions workflow rebuilds and redeploys on push to `main`.
 
 ## Commands
 
