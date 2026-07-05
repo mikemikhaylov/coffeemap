@@ -91,9 +91,9 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
@@ -147,9 +147,9 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 2,
+        "service": 3,
+        "atmosphere": 2
       }
     ]
   },
@@ -191,9 +191,9 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3
       }
     ]
   },
@@ -234,8 +234,8 @@
     "visits": [
       {
         "coffee": 0,
-        "service": null,
-        "atmosphere": null
+        "service": 3,
+        "atmosphere": 3
       }
     ]
   },
@@ -315,6 +315,20 @@
     ]
   },
   {
+    "url": "https://maps.app.goo.gl/aoJQaXqTqVXgZ4yX7",
+    "name": "Hastings Wine and Coffee",
+    "lat": 50.8596783,
+    "lng": 0.5839411,
+    "tags": [],
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 3,
+        "atmosphere": 2
+      }
+    ]
+  },
+  {
     "url": "https://maps.app.goo.gl/bctaks6JYXGQMnes8",
     "name": "The Fincan",
     "lat": 51.4987707,
@@ -350,9 +364,9 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
@@ -413,7 +427,7 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
+        "coffee": 2,
         "service": 2,
         "atmosphere": 2
       }
@@ -427,9 +441,9 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
@@ -455,9 +469,9 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
@@ -515,9 +529,9 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3
       }
     ]
   },
@@ -668,12 +682,14 @@
     "name": "Nostos Coffee",
     "lat": 51.4986733,
     "lng": -0.1333018,
-    "tags": [],
+    "tags": [
+      "☕ Specialty vibe"
+    ],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 3,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
@@ -685,9 +701,23 @@
     "tags": [],
     "visits": [
       {
-        "coffee": null,
-        "service": null,
-        "atmosphere": null
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 3
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/vFRVLSWKC6AnWzGo6",
+    "name": "Hanushka Coffee",
+    "lat": 50.854975,
+    "lng": 0.5773245,
+    "tags": [],
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 3
       }
     ]
   },
