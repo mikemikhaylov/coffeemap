@@ -28,6 +28,20 @@
     ]
   },
   {
+    "url": "https://maps.app.goo.gl/5PwtJ8YbebvbSUCcA",
+    "name": "Bloom Cafe",
+    "lat": 51.49782,
+    "lng": -0.169755,
+    "tags": [],
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 3
+      }
+    ]
+  },
+  {
     "url": "https://maps.app.goo.gl/6BACCv5uHknErSW37",
     "name": "Old Spike Cabot Square",
     "lat": 51.5051042,
@@ -416,6 +430,11 @@
         "coffee": 2,
         "service": 3,
         "atmosphere": 2
+      },
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
@@ -750,6 +769,22 @@
         "coffee": 2,
         "service": 2,
         "atmosphere": 3
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/zS7DWb3fUgaGHKhx5",
+    "name": "18Grams Coffee. ∞ Love.",
+    "lat": 51.4775767,
+    "lng": -0.0153594,
+    "tags": [
+      "☕ Specialty vibe"
+    ],
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
