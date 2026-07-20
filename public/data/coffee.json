@@ -70,6 +70,20 @@
     ]
   },
   {
+    "url": "https://maps.app.goo.gl/7Xhs8sXLrhQ2Jt5CA",
+    "name": "Bank Street Cafe",
+    "lat": 51.5027153,
+    "lng": -0.0194034,
+    "tags": [],
+    "visits": [
+      {
+        "coffee": 1,
+        "service": 2,
+        "atmosphere": 2
+      }
+    ]
+  },
+  {
     "url": "https://maps.app.goo.gl/8XimkujYy5Dqxd6M8",
     "name": "Carhartt Coffee",
     "lat": 51.5337104,
@@ -268,6 +282,20 @@
     ]
   },
   {
+    "url": "https://maps.app.goo.gl/SrfQs9sYwsiHJEkM8",
+    "name": "Mouse Tail Coffee Canada Water",
+    "lat": 51.4978368,
+    "lng": -0.047919,
+    "tags": [],
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2
+      }
+    ]
+  },
+  {
     "url": "https://maps.app.goo.gl/VFNZkteydWE5MJq47?g_st=notion.id.NotionShareExtension",
     "name": "WatchHouse",
     "lat": 51.5052594,
@@ -296,6 +324,20 @@
       {
         "coffee": 1,
         "service": 2,
+        "atmosphere": 3
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/XSiyHJdREm8qHzok6",
+    "name": "Olea Specialty Coffee & Matcha",
+    "lat": 50.8257696,
+    "lng": -0.1390059,
+    "tags": [],
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 3,
         "atmosphere": 3
       }
     ]
@@ -637,6 +679,20 @@
         "coffee": null,
         "service": null,
         "atmosphere": null
+      }
+    ]
+  },
+  {
+    "url": "https://maps.app.goo.gl/rb6gJ8VTmo191uc59",
+    "name": "Grind",
+    "lat": 51.5054604,
+    "lng": -0.0198454,
+    "tags": [],
+    "visits": [
+      {
+        "coffee": 2,
+        "service": 2,
+        "atmosphere": 2
       }
     ]
   },
